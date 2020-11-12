@@ -1,0 +1,4 @@
+# Todo elements
+# - ddd loading state everywhere
+# - add color changing of item updated after update (for 2 secs)
+# - refactor RButton styles
